@@ -5,7 +5,7 @@ We used HTML, Java Script, CSS and SQL.
 ## Description of the ER Diagram
 - Admin: Stores login credentials for administrative access
 - Student: Contains student details and links to branch and semester
-- Branch: Represents academic departments (e.g., CSE, ECE)
+- Branch: Represents academic departments (e.g., CSE, ECE ,EEE )
 - Semester: Represents academic levels (e.g., 1st Sem, 2nd Sem)
 - Subject: Contains subject details
 - sub_com: Connects subjects to branches and semesters
