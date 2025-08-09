@@ -1,6 +1,6 @@
 # Student-Result-Management-Portal
 A Student Result Management Portal is a digital platform that stores, manages, and displays students academic results, allowing administrators to update marks and students to view their grades easily and securely. 
-We used HTML, Java Script, CSS and SQL.
+We used HTML, Java Script, PHP, CSS and SQL.
 
 ## Description of the ER Diagram
 - Admin: Stores login credentials for administrative access
